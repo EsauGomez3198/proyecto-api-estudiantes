@@ -10,8 +10,11 @@ pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+
 /.env
 .env/*
+/package-lock.json
+package-lock.json
 
 # OS
 .DS_Store
